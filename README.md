@@ -19,4 +19,4 @@ realizar operaciones aritmeticas e imprimirla.
 
 Breve descripcion:
 El programa pide como entrada 2 variables flotantes (base y altura)
-calcula e larea de un triangulo e imprime su resultado
+calcula el area de un triangulo e imprime su resultado
