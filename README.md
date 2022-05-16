@@ -7,11 +7,11 @@ Materia : Programcion Estructurada
 CICLO: 01/2022
 
 Programa en lenguaje c que muestra el uso de:
--Declaracion de variables 
--Variables del tipo flotate
--scanf
--Operacones aritmeticas 
--printf para monstrar los valroes de las variables
+  -Declaracion de variables 
+  -Variables del tipo flotate
+  -scanf
+  -Operacones aritmeticas 
+  -printf para monstrar los valroes de las variables
 
 Objetivo:
 Mostrar el uso de variables flotantes, como declararlas, pedirlas por teclado,
