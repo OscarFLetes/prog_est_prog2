@@ -1,10 +1,10 @@
 # prog_est_prog2
 Programa en lenguaje c que calcula el area de un triangulo con el uso de scanf y operaciones aritméticas 
 
-Autor: Oscar Eduardo Fletes Ixta
-Escuela: UVM Campus Lomas Verdes
-Materia : Programcion Estructurada
-CICLO: 01/2022
+* <b> Autor:</b> Oscar Eduardo Fletes Ixta
+* <b> Escuela:</b> UVM Campus Lomas Verdes
+* <b> Materia:</b> Programcion Estructurada
+* <b> CICLO:</b> 01/2022
 
 Programa en lenguaje c que muestra el uso de:
 * Declaracion de variables 
