@@ -1,5 +1,5 @@
 # prog_est_prog2
-Programa en lenguaje c que muestra el uso de scanf y operaciones aritméticas 
+Programa en lenguaje c que calcula el area de un triangulo con el uso de scanf y operaciones aritméticas 
 
 Autor: Oscar Eduardo Fletes Ixta
 Escuela: UVM Campus Lomas Verdes
